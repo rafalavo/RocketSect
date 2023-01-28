@@ -3,7 +3,7 @@ body {
   margin: 0;
 }
 
-a, li, h1 {
+a, li {
   color: #FFFFFF;
   font-family: 'JetBrains Mono', monospace;
   font-weight: 500;
@@ -11,6 +11,7 @@ a, li, h1 {
 
 h1 {
   font-family: 'JetBrains Mono', monospace;
+  color: #FFFFFF;
   font-weight: 700;
   font-size: 36px;
   line-height: 40px;
